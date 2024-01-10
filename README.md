@@ -1,8 +1,13 @@
 # Amazon_Product_category-DashBoard
 
-![image](https://github.com/Piriyanka18/Amazon_Product_category-DashBoard/assets/80697383/47681cf4-db0c-4ecf-87e3-59a2bc130b25)
+![image](https://github.com/Piriyanka18/Amazon_Product_category-DashBoard/assets/80697383/d7b2d8c9-491c-4809-8f27-7e1cfc184838)
 
-![image](https://github.com/Piriyanka18/Amazon_Product_category-DashBoard/assets/80697383/d28b7d8e-3487-4f20-8de6-44f772f2f8dc)
+
+![image](https://github.com/Piriyanka18/Amazon_Product_category-DashBoard/assets/80697383/466c6d68-b6aa-4956-8f56-d2339e1703c1)
+
+
+![image](https://github.com/Piriyanka18/Amazon_Product_category-DashBoard/assets/80697383/f19aa0ed-0649-41c2-9b56-db705fc254ce)
+
 
 ![image](https://github.com/Piriyanka18/Amazon_Product_category-DashBoard/assets/80697383/435ea54e-4958-4789-9246-872c96eefd4d)
 
